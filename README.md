@@ -1,6 +1,9 @@
 # PrEPCiswomen
 Code related to the calibration of an efficacy curve for women
 
+# Underlying data
+Data required for imputation of DBS curves is stored in imputation_data.Rdata
+
 # Code to run MCMC
 The script run_calibration.R runs the Markov Chain Monte Carlo calibration of all models.
 
